@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url("afbeeldingen/grand canyon background vaag.jpg");
+
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #222122;
+    position: sticky;
+
+}
+
+.topnav a {
+    float: right;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #222122;
+    color: #58af85;
+}
+
+.topnav a.active {
+    background-color: #000000;
+    color: #58af85;
+}
+
+.logojorian {
+    float: left;
+}
+
+main {
+
+}
+
+.mcontent {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.mcontent2{
+
+}
+
+.bryce {
+    size: 100vw 100vh;
+}
+
+label {
+    color: #222122;
+    display: inline-block;
+    width: 100px;
+}
+.naam{
+    
+}
